@@ -37,7 +37,7 @@ A curated list of free APIs for academic research, scientific data, and scholarl
 | API | Records | Key Required | Description |
 |-----|---------|-------------|-------------|
 | [PubMed (E-utilities)](https://www.ncbi.nlm.nih.gov/books/NBK25501/) | 36M+ | ❌ No | Biomedical literature, clinical trials |
-| [ClinicalTrials.gov](https://clinicaltrials.gov/data-api/about-api) | 450K+ | ❌ No | Clinical trial registrations worldwide |
+| [ClinicalTrials.gov](https://clinicaltrials.gov/data-api/about-api) | 500K+ | ❌ No | Clinical trial registrations worldwide — **[Our toolkit](https://github.com/spinov001-art/clinicaltrials-research-toolkit)** |
 | [WHO GHO](https://www.who.int/data/gho/info/gho-odata-api) | — | ❌ No | Global health statistics |
 | [OpenFDA](https://open.fda.gov/apis/) | — | ❌ No | Drug adverse events, recalls, labels |
 | [UniProt](https://www.uniprot.org/help/api) | 250M+ | ❌ No | Protein sequences and functions |
