@@ -70,6 +70,16 @@ A curated list of free APIs for academic research, scientific data, and scholarl
 | [data.gov](https://www.data.gov/developers/) | US government open datasets | Varies |
 | [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API) | Geographic data | ❌ No |
 
+## Financial & Economic Data
+
+| API | Description | Auth | Toolkit |
+|-----|-------------|------|---------|
+| [SEC EDGAR](https://www.sec.gov/edgar/sec-api-documentation) | US public company filings, financial data | User-Agent only | [sec-edgar-api-python](https://github.com/spinov001-art/sec-edgar-api-python) |
+| [FRED](https://fred.stlouisfed.org/docs/api/fred/) | 816,000+ economic time series (inflation, GDP, unemployment) | Free API key | [fred-api-python](https://github.com/spinov001-art/fred-api-python) |
+| [Treasury.gov](https://fiscaldata.treasury.gov/api-documentation/) | US national debt, treasury auctions, government bonds | No auth | — |
+| [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) | Global development indicators, GDP by country | No auth | — |
+| [BLS](https://www.bls.gov/developers/) | Bureau of Labor Statistics — employment, prices, wages | Free API key | — |
+
 ---
 
 ## Contributing
