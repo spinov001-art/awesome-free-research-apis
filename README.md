@@ -78,6 +78,8 @@ Found a free research API that's missing? Open an issue or PR!
 
 ## Related Projects
 
+- [NLP & Translation API Toolkit](https://github.com/spinov001-art/nlp-api-toolkit) — Free translation, synonyms, definitions
+- [Web Scraping Cheatsheet 2026](https://github.com/spinov001-art/web-scraping-cheatsheet) — Python, JS, selectors
 - [awesome-devsec-tools](https://github.com/spinov001-art/awesome-devsec-tools) — 20+ security scanners
 - [77 Web Scrapers on Apify](https://apify.com/knotless_cadence)
 - [Dev.to Articles](https://dev.to/0012303) — Free API tutorials
