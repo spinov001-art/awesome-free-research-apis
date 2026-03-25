@@ -61,7 +61,7 @@ A curated list of free APIs for academic research, scientific data, and scholarl
 
 | API | Description | Key Required |
 |-----|-------------|-------------|
-| [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) | Economic indicators for 200+ countries | ❌ No |
+| [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) | Economic indicators for 200+ countries — **[Our toolkit](https://github.com/spinov001-art/world-bank-api-toolkit)** | ❌ No |
 | [Eurostat](https://ec.europa.eu/eurostat/web/json-and-unicode-web-services) | European statistics | ❌ No |
 | [data.gov](https://www.data.gov/developers/) | US government open datasets | Varies |
 | [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API) | Geographic data | ❌ No |
