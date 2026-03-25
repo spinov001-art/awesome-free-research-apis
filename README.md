@@ -49,6 +49,7 @@ A curated list of free APIs for academic research, scientific data, and scholarl
 | [NASA Open APIs](https://api.nasa.gov/) | Astronomy, earth science, Mars rover photos — **[Our toolkit](https://github.com/spinov001-art/nasa-api-toolkit)** | ✅ Free key |
 | [USGS Earthquake](https://earthquake.usgs.gov/fdsnws/event/1/) | Real-time seismic data worldwide — **[Our toolkit](https://github.com/spinov001-art/earthquake-api-toolkit)** | ❌ No |
 | [NOAA Climate](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) | Historical weather and climate data | ✅ Free key |
+| [Open-Meteo](https://open-meteo.com/) | Weather forecast + historical data, no key needed — **[Our toolkit](https://github.com/spinov001-art/weather-api-toolkit)** | ❌ No |
 | [European Space Agency](https://scihub.copernicus.eu/dhus/#/home) | Satellite imagery | ✅ Free account |
 | [GBIF](https://www.gbif.org/developer/summary) | 2B+ biodiversity occurrence records | ❌ No |
 
