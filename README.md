@@ -57,7 +57,7 @@ A curated list of free APIs for academic research, scientific data, and scholarl
 | API | Records | Key Required | Description |
 |-----|---------|-------------|-------------|
 | [EPO Open Patent Services](https://www.epo.org/searching-for-patents/data/web-services/ops.html) | 100M+ | ✅ Free key | European patents |
-| [USPTO PatentsView](https://patentsview.org/apis/purpose) | 8M+ | ❌ No | US patent data |
+| [USPTO PatentsView](https://patentsview.org/apis/purpose) | 8M+ | ❌ No | US patent data — **[Our toolkit](https://github.com/spinov001-art/patent-api-toolkit)** |
 | [Lens.org](https://www.lens.org/lens/search/scholar/api) | 200M+ | ✅ Free key | Patents + scholarly works |
 
 ## Open Data
