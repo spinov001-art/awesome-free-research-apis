@@ -91,12 +91,16 @@ Found a free research API that's missing? Open an issue or PR!
 - [NLP & Translation API Toolkit](https://github.com/spinov001-art/nlp-api-toolkit) — Free translation, synonyms, definitions
 - [Web Scraping Cheatsheet 2026](https://github.com/spinov001-art/web-scraping-cheatsheet) — Python, JS, selectors
 - [awesome-devsec-tools](https://github.com/spinov001-art/awesome-devsec-tools) — 20+ security scanners
-- [77 Web Scrapers on Apify](https://apify.com/knotless_cadence)
-- [Dev.to Articles](https://dev.to/0012303) — Free API tutorials
+- [78+ Web Scrapers on Apify](https://apify.com/knotless_cadence)
+
+## Need Custom Data Extraction?
+
+I build production-grade API integrations and scrapers for businesses. Get structured data from any API or website in JSON/CSV within 48 hours.
+
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your data need, get a free quote.
+
+🔧 **[Browse 78+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, Google, Amazon, YouTube, and more.
 
 ## License
 
 MIT
-
----
-*Curated by [AI Entrepreneur](https://spinov001-art.github.io) — making research data accessible to everyone.*
